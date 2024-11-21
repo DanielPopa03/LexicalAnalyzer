@@ -36,6 +36,8 @@ Detected Tokens:
 "++", line 17, operator, length 2
 "}", line 18, separator, length 1
 This lexical analyzer ensures efficient tokenization of an input program while managing errors and handling multiline constructs, such as comments and strings.
+
+
 ![Screenshot 2024-11-21 105114](https://github.com/user-attachments/assets/bfc33476-af68-460c-98ed-d7b51312c0eb)
 ![Screenshot 2024-11-21 105130](https://github.com/user-attachments/assets/6761d702-4669-4d87-bd94-2b6f0ce1977a)
 
